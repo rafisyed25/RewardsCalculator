@@ -9,3 +9,12 @@ As part of this application two API's are exposed
 
 
 This project requires Java 17 Version
+
+
+Please find below the sceenshot of the Api call
+
+
+![image](https://user-images.githubusercontent.com/97922882/149848135-c2759bfc-6eb4-457e-a4bc-73deebb07bac.png)
+
+
+![image](https://user-images.githubusercontent.com/97922882/149848158-df087881-da47-41b5-83de-8b6c001c284a.png)
