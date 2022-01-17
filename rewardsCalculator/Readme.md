@@ -10,6 +10,8 @@ As part of this application two API's are exposed
 
 This project requires Java 17 Version
 
+The input is harcoded as a csv file resource directory both the API's are driven from that input file
+
 
 Please find below the sceenshot of the Api call
 
